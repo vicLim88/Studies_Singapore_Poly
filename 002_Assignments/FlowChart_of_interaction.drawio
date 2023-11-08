@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T18:20:45.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="uKvQ7XRgsKyjeo0reXLO" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T18:22:37.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="t3pVReMWNnbfb-B79bIg" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2647" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -379,6 +379,9 @@
         </mxCell>
         <mxCell id="pEoeZAhQdShQ0X7bN0o5-25" value="Sexual Remark Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1320" y="920" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pEoeZAhQdShQ0X7bN0o5-26" value="Create Basic Presentation Slides with my interaction with Telegram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1320" y="1085" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
